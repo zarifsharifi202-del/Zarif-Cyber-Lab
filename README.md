@@ -26,7 +26,6 @@ All exercises are intended for educational purposes and must be performed only o
 
 Explore the exercises, learn at your own pace, and practice responsibly.
 
-Created by Zarif | Zarif Learn Cyber Security
 🚀 How to Use This Lab
 
 Step 1: Explore the Lessons
